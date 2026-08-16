@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://about.nenxiaotu.com/sitemap.xml
